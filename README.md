@@ -15,31 +15,18 @@ If you need a simple bootstrap 4 form, You are in right place. This package will
 
 Almost every HTML form fields are supporting now. Here is a list of major supported fields and their data type.
 
-| Field Name | Data Type | Default Value |
-
+| Field Name | Data Type | Default value |  
 |--|--|--|
-
-|text |string |Empty String ("")|
-
-|radio|string|Field Value|
-
+| text  | string | Empty String("")
+| radio | string | Field Value
 |checkbox |array |Field Value|
-
 |file | JS File Object | undefined|
-
 |date | JS Date Object or String | undefined |
-
 |password | String | Empty String ("") |
-
 |number | Number | undefined |
-
 |color | String | undefined |
 
-  
-
-You can use any type of form field. It will render dynamically.
-
-  
+You can use any type of form field. It will render dynamically.  
 
 ## Installation:
 
